@@ -14,4 +14,4 @@ CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Toront
 
 🔹 Tools: SQL | Power BI | Tableau | Excel | Python (Pandas) | Git  
 📍 Open to junior data analyst roles in Toronto/GTA  
-📧 name@gmail.com | [linkedin.com/in/yourname](https://www.linkedin.com/in/marwa-hemdan/)
+📧  [LinkedIn](https://www.linkedin.com/in/marwa-hemdan/)
