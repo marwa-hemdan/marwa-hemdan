@@ -7,7 +7,7 @@ CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Toront
 🔹 Building dashboards that drive decisions
 
 ### 🚀 Featured Projects
-- 📊 [Sales Dashboard - Power BI](./PowerBI-Sales-Dashboard) – YoY, Top Products, Regional Analysis  
+- 📊 [Sales Dashboard - Power BI](https://github.com/marwa-hemdan/Portfolio) – YoY, Top Products, Regional Analysis  
 - 📈 [Customer RFM Analysis - Tableau](./Tableau-Customer-RFM) – Cohort + Segmentation  
 - 🗄️ [SQL Portfolio - 10 Complex Queries](./SQL-Queries) – Window Functions, CTEs  
 - 📑 [Advanced Excel Dashboards](./Excel-Dashboards) – Dynamic with Slicers & Power Query  
