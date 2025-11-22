@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Marwa Hemdan
+**Junior Data Analyst** | SQL • Power BI • Tableau • Excel • Python  
+CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Toronto
 
-<!--
-**marwa-hemdan/marwa-hemdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Google Data Analytics Certificate | 2025  
 
-Here are some ideas to get you started:
+🔹 Building dashboards that drive decisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- 📊 [Sales Dashboard - Power BI](./PowerBI-Sales-Dashboard) – YoY, Top Products, Regional Analysis  
+- 📈 [Customer RFM Analysis - Tableau](./Tableau-Customer-RFM) – Cohort + Segmentation  
+- 🗄️ [SQL Portfolio - 10 Complex Queries](./SQL-Queries) – Window Functions, CTEs  
+- 📑 [Advanced Excel Dashboards](./Excel-Dashboards) – Dynamic with Slicers & Power Query  
+
+🔹 Tools: SQL | Power BI | Tableau | Excel | Python (Pandas) | Git  
+📍 Open to junior data analyst roles in Toronto/GTA  
+📧 name@gmail.com | [linkedin.com/in/yourname](https://www.linkedin.com/in/marwa-hemdan/)
