@@ -11,7 +11,8 @@ CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Canada
 - 📈 [CovidInSql - SQL](https://github.com/marwa-hemdan/CovidInSql) – Cleaning data by SQL   & Power Query  
 - 🗄️ [Medical-Appointment-No-Shows - EXCEL](https://github.com/marwa-hemdan/Medical-Appointment-No-Shows) – Window Functions, CTEs  
 - 📑 [HR_summary - Tableau](https://github.com/marwa-hemdan/HR_summary) – Dynamic with Slicers
-
+- 📈 [Pizza_Restaurant_sales - Excel](https://github.com/marwa-hemdan/Pizza_Restaurant_sales-) – Formating condition
+- 📈 [students_performance - Excel](https://github.com/marwa-hemdan/students_performance) – analycis & dashboard
 🔹 Tools: SQL | Power BI | Tableau | Excel | Python (Pandas) | Git  
 📍 Open to junior data analyst roles in Toronto/GTA  
 📧  [LinkedIn](https://www.linkedin.com/in/marwa-hemdan/)
