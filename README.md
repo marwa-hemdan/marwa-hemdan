@@ -9,7 +9,7 @@ CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Canada
 ### 🚀 Featured Projects
 - 📊 [Bike-Sales-Bashboard](https://github.com/marwa-hemdan/Bike-Sales-Bashboard) – EXCEl, Top Bike Products, Regional Analysis  
 - 📈 [CovidInSql - SQL](https://github.com/marwa-hemdan/CovidInSql) – Cleaning data by SQL   & Power Query  
-- 🗄️ [Medical-Appointment-No-Shows - EXCEL](https://github.com/marwa-hemdan/Medical-Appointment-No-Shows) – Window Functions, CTEs  
+- 🗄️ [Medical-Appointment-No-Shows - Excel](https://github.com/marwa-hemdan/Medical-Appointment-No-Shows) – Window Functions, CTEs  
 - 📑 [HR_summary - Tableau](https://github.com/marwa-hemdan/HR_summary) – Dynamic with Slicers
 - 📈 [Pizza_Restaurant_sales - Excel](https://github.com/marwa-hemdan/Pizza_Restaurant_sales-) – Formating condition
 - 📈 [students_performance - Excel](https://github.com/marwa-hemdan/students_performance) – analycis & dashboard
