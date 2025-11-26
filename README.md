@@ -7,12 +7,13 @@ CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Canada
 🔹 Building dashboards that drive decisions
 
 ### 🚀 Featured Projects
+- 📑 [HR_summary - Tableau](https://github.com/marwa-hemdan/HR_summary) – Dynamic with Slicers & Tableau   #recommended
+- 📈 [CovidInSql - SQL](https://github.com/marwa-hemdan/CovidInSql) – Cleaning data by SQL   & Power Query  #recommended 
 - 📊 [Bike-Sales-Bashboard](https://github.com/marwa-hemdan/Bike-Sales-Bashboard) – EXCEl, Top Bike Products, Regional Analysis  
-- 📈 [CovidInSql - SQL](https://github.com/marwa-hemdan/CovidInSql) – Cleaning data by SQL   & Power Query  
 - 🗄️ [Medical-Appointment-No-Shows - Excel](https://github.com/marwa-hemdan/Medical-Appointment-No-Shows) – Window Functions, CTEs  
-- 📑 [HR_summary - Tableau](https://github.com/marwa-hemdan/HR_summary) – Dynamic with Slicers
 - 📈 [Pizza_Restaurant_sales - Excel](https://github.com/marwa-hemdan/Pizza_Restaurant_sales-) – Formating condition
 - 📈 [students_performance - Excel](https://github.com/marwa-hemdan/students_performance) – analycis & dashboard
+  
 🔹 Tools: SQL | Power BI | Tableau | Excel | Python (Pandas) | Git  
-📍 Open to junior data analyst roles in Toronto/GTA  
+📍 Open to junior data analyst roles in Mississauga/Toronto/GTA  - remote 
 📧  [LinkedIn](https://www.linkedin.com/in/marwa-hemdan/)
