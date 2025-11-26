@@ -4,6 +4,8 @@ CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Canada
 
 🔹 Google Data Analytics Certificate | 2025  
 
+[final_certificate.pdf](https://github.com/user-attachments/files/23761811/final_certificate.pdf)
+
 🔹 Building dashboards that drive decisions
 
 ### 🚀 Featured Projects
