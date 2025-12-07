@@ -12,6 +12,7 @@ CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Canada
 
 ### 🚀 Featured Projects
 - 📈 [2025-billionaires-interactive-dashboard - Excel](https://github.com/marwa-hemdan/2025-billionaires-interactive-dashboard) - Excel & Dashboard # Dec 1, 2025
+- 📊 [Sale-Dashboard-of-Tele-Company](https://github.com/marwa-hemdan/Sale-Dashboard-of-Tele-Company)  Excel & Dashboard # Dec 12, 2025
 - 📑 [HR_summary - Tableau](https://github.com/marwa-hemdan/HR_summary) – Dynamic with Slicers & Tableau   #recommended
 - 📈 [CovidInSql - SQL](https://github.com/marwa-hemdan/CovidInSql) – Cleaning data by SQL   & Power Query  #recommended 
 - 📊 [Bike-Sales-Bashboard](https://github.com/marwa-hemdan/Bike-Sales-Bashboard) – EXCEl, Top Bike Products, Regional Analysis  
