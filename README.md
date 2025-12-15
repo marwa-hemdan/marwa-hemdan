@@ -11,6 +11,7 @@ CS Graduate | Canadian Permanent Resident 🇨🇦 | Actively applying in Canada
 🔹 Building dashboards that drive decisions
 
 ### 🚀 Featured Projects
+- 📊 [Clothes_Store - Excel & Pivot Table ](https://github.com/marwa-hemdan/Clothes_Store) - Excel & Dashboard # Dec 14,2025
 - 📈 [2025-billionaires-interactive-dashboard - Excel](https://github.com/marwa-hemdan/2025-billionaires-interactive-dashboard) - Excel & Dashboard # Dec 1, 2025
 - 📊 [Sale-Dashboard-of-Tele-Company](https://github.com/marwa-hemdan/Sale-Dashboard-of-Tele-Company)  Excel & Dashboard # Dec 12, 2025
 - 📑 [HR_summary - Tableau](https://github.com/marwa-hemdan/HR_summary) – Dynamic with Slicers & Tableau   #recommended
